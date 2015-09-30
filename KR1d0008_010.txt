@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 太平經國書
-#+DATE: 2015-09-23 09:37:23
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:07:30.357762
+#+PROPERTY: ID KR1d0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0008_WYG_010-1a>¶
 欽定四庫全書¶
 　太平經國書卷十　　　　宋　鄭伯謙　撰¶
@@ -164,4 +166,3 @@
 至於是而後知周禮之書不可廢¶
 　¶
 　太平經國書卷十¶
-

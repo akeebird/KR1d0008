@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 太平經國書
-#+DATE: 2015-09-23 09:37:23
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:07:30.280113
+#+PROPERTY: ID KR1d0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0008_WYG_004-1a>¶
 欽定四庫全書¶
 　太平經國書巻四　　　宋　鄭伯謙　撰¶
@@ -200,4 +202,3 @@
 　¶
 　¶
 　太平經國書巻四¶
-

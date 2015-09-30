@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 太平經國書
-#+DATE: 2015-09-23 09:37:23
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:07:30.203193
+#+PROPERTY: ID KR1d0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0008_WYG_000-1a>¶
 欽定四庫全書　　　　　經部四¶
 　太平經國書　　　　　禮類一(周禮之屬/)¶
@@ -44,6 +46,7 @@
 　　　　恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1d0008_WYG_000-4a>¶
 太平經國書原序¶
 先王無自私之心安家者所以寧天下也存我者所以¶
@@ -188,4 +191,3 @@
 　¶
 　¶
 　太平經國書原序¶
-
